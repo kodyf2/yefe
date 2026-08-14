@@ -45,7 +45,7 @@
                 </h1>
 
                 <p class="mt-6 text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto">
-                    Valid for Worldwide travel and school use worldwide: Only $59
+                    Valid for Worldwide travel and school use worldwide: Only $79
                 </p>
                 
             
